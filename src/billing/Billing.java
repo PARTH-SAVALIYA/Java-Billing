@@ -25,7 +25,7 @@ public class Billing {
             System.out.println("customer " + (i + 1));
             n.product2();   
             n.total();
-            System.out.println("you want to enter new bill press y else n");
+//            System.out.println("you want to enter new bill press y else n");
             String s = sc.next();
             if (s.equals("y")) {
                 j++;
