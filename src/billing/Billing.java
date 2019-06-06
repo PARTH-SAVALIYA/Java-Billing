@@ -7,10 +7,6 @@ package billing;
 
 import java.util.Scanner;
 
-/**
- *
- * @author ankita
- */
 public class Billing {
 
     /**
